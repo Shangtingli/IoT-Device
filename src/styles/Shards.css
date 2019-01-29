@@ -1,0 +1,12 @@
+#shards_image{
+    width: 20vw;
+    height: 50vh;
+}
+
+#shards_button_container{
+    text-align: center;
+}
+
+#shards_button_container button {
+    margin-right: 1vw;
+}

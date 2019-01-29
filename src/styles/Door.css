@@ -1,0 +1,12 @@
+#door_image{
+    width: 20vw;
+    height: 50vh;
+}
+
+#door_button_container{
+    text-align:center;
+}
+
+#door_button_container button{
+    margin-right: 1vw;
+}

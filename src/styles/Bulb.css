@@ -1,0 +1,13 @@
+#bulb_image{
+    width: 20vw;
+    height: 50vh;
+}
+
+
+#bulb_button_container{
+    text-align: center;
+}
+
+#bulb_button_container button {
+    margin-right: 1vw;
+}
