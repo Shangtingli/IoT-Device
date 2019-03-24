@@ -1,7 +1,8 @@
 @import 'styles/Shards.css';
 @import 'styles/Door.css';
-@import 'styles/Bulb.css';
-
+@import 'styles/Lamp.css';
+@import 'styles/Topbar.css';
+@import 'styles/Log.css';
 body {
   margin: 0;
   padding: 0;

@@ -1,0 +1,13 @@
+#lamp_image{
+    width: 20vw;
+    height: 50vh;
+}
+
+
+#lamp_button_container{
+    text-align: center;
+}
+
+#lamp_button_container button {
+    margin-right: 1vw;
+}

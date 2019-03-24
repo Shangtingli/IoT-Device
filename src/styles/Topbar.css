@@ -1,0 +1,13 @@
+#topbar-container{
+    width:100%;
+    height: 10vh;
+    background-color: lightblue;
+    display: inline-block;
+}
+
+#topbar-container p{
+    font-size: 20px;
+    margin: auto;
+    font-weight: 700;
+    margin-top: 2vh;
+}
